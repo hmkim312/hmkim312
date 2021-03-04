@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white)
 
 [![Blog](http://img.shields.io/badge/-Blog-655ced?style=flat&logo=github&link=https://hmkim312.github.io)](https://hmkim312.github.io) [![Gmail](http://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sanarial312@gmail.com)](mailto:sararial312@gmail.com)
 
