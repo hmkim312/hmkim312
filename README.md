@@ -5,7 +5,7 @@
 </div>
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
-[![Blog](http://img.shields.io/badge/-Blog-655ced?style=flat&logo=github&link=https://hmkim312.github.io)](https://hmkim312.github.io)
+[![Blog](http://img.shields.io/badge/-Blog-655ced?style=flat&logo=github&link=https://hmkim312.github.io)](https://hmkim312.github.io{:target="_blank"})
 
 
 
