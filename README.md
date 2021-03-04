@@ -5,7 +5,7 @@
 </div>
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"></a>
-<img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://alpox.kr"></a>
+<img src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://hmkim312.github.io/"></a>
 
 
 
