@@ -11,6 +11,8 @@
 [![Blog](http://img.shields.io/badge/-Blog-655ced?style=flat&logo=github&link=https://hmkim312.github.io)](https://hmkim312.github.io) [![Gmail](http://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sanarial312@gmail.com)](mailto:sararial312@gmail.com)
 
 
-
+<div align=center>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmkim312)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
