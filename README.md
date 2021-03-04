@@ -5,8 +5,9 @@
 </div>
 
 
-# Welcom My Github :wave: 
+# :wave: Welcom My Github
 
+## :radio_button: Career
 
 |**title**|**title**|**title**|**title**|
 |---|---|---|---|
@@ -14,6 +15,7 @@
 
 
 
+## :zap: Skill 
 
 ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
@@ -26,13 +28,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
-
-
-
-
+## :iphone: Contact
 
 [![Blog](http://img.shields.io/badge/-Blog-655ced?style=flat&logo=github&link=https://hmkim312.github.io)](https://hmkim312.github.io) [![Gmail](http://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sanarial312@gmail.com)](mailto:sararial312@gmail.com)
 
+
+## :star: Git Status
 
 <div align=center>
 
