@@ -7,13 +7,20 @@
 
 # :wave: Welcom My Github
 
+## :boy: Introduce
+
+- blah blah
+- blah blah
+
+<br>
+
 ## :radio_button: Career
 
 |**title**|**title**|**title**|**title**|
 |---|---|---|---|
 |temp|temp|temp|temp|
 
-
+<br>
 
 ## :zap: Skill 
 
@@ -28,10 +35,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 
+<br>
+
 ## :iphone: Contact
 
 [![Blog](http://img.shields.io/badge/-Blog-655ced?style=flat&logo=github&link=https://hmkim312.github.io)](https://hmkim312.github.io) [![Gmail](http://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sanarial312@gmail.com)](mailto:sararial312@gmail.com)
 
+<br>
 
 ## :star: Git Status
 
