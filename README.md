@@ -5,7 +5,7 @@
 </div>
 
 
-# :wave: Welcom My Github
+# :wave: Welcome My Github
 
 ## :boy: Introduce
 
