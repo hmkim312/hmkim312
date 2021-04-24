@@ -9,8 +9,10 @@
 
 ## :boy: Introduce
 
-- blah blah
-- blah blah
+|**회사명**|**기간**|**업무**|**비고**|
+|---|---|---|---|
+|키OOO|2020.11 ~ |Modeling||
+
 
 <br>
 
