@@ -9,18 +9,17 @@
 
 ## :boy: Introduce
 
-|**회사명**|**기간**|**업무**|**비고**|
-|---|---|---|---|
-|키OOO|2020.11 ~ |Modeling||
+- Data Science 공부하는 김현민 입니다.
+- Deep, Machine Learning Modeling 업무를 맡고 있습니다.
 
 
 <br>
 
 ## :radio_button: Career
 
-|**title**|**title**|**title**|**title**|
+|**회사명**|**기간**|**업무**|**비고**|
 |---|---|---|---|
-|temp|temp|temp|temp|
+|키OOO|2020.11 ~ |Modeling||
 
 <br>
 
