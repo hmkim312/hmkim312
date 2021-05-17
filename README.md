@@ -36,7 +36,7 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=Visual_Studio_Code&logoColor=white)
+![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 
 <br>
