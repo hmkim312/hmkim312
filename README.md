@@ -9,8 +9,9 @@
 
 ## :boy: Introduce
 
-- Data Science 공부하는 김현민 입니다.
-- Deep, Machine Learning Modeling 업무를 맡고 있습니다.
+- 안녕하세요 Data Science 1년차 김현민 입니다.
+- Data Analysis, Deep Learning Machine Learning 업무를 맡고 있습니다.
+- Jupyter환경에서 Python3를 사용하여 분석합니다.
 
 
 <br>
@@ -19,7 +20,7 @@
 
 |**회사명**|**기간**|**업무**|**비고**|
 |---|---|---|---|
-|키OOO|2020.11 ~ |Modeling||
+|키OOO|2020.11 ~ |Data Analysis||
 
 <br>
 
@@ -35,6 +36,7 @@
 ![MacOS](https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=macOS&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCODE-VSCOE-%23007ACC?style=flat-square&logo=Jupyter&logoColor=white)
 
 <br>
 
