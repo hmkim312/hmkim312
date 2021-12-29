@@ -9,7 +9,7 @@
 
 ## :boy: Introduce
 
-- 안녕하세요 Data Science 1년차 김현민 입니다.
+- 안녕하세요 Data Science 2년차 김현민 입니다.
 - Data Analysis, Deep Learning Machine Learning 업무를 맡고 있습니다.
 - VSCODE 와 Jupyter환경에서 Python3를 사용하여 분석합니다.
 
