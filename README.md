@@ -9,9 +9,11 @@
 
 ## :boy: Introduce
 
-- 안녕하세요 Data Science 3년차 김현민 입니다.
-- Data Analysis, Deep Learning Machine Learning 업무를 맡고 있습니다.
-- VSCODE 와 Jupyter환경에서 Python3를 사용하여 분석합니다.
+- Data Scientist 3년차 김현민 입니다.
+- 보안/물류, 에듀테크 스타트업에서 Data Analysis, Machine Learning, Deep Learning 업무를 맡아 진행했습니다.
+- 비즈니스 문제를 데이터 기반으로 해결하는데 능숙합니다.
+- 원할한 협업을 위한 커뮤니케이션 역량을 보유하고 있습니다.
+- SQL / Python을 활용한 데이터 분석이 가능합니다.
 
 
 <br>
