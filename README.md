@@ -20,8 +20,8 @@
 
 |**회사명**|**기간**|**업무**|**비고**|
 |---|---|---|---|
-|키OOO|2020.11 ~ 2022.03|Data Analysis||
-|코드OOOO|2022.04 ~ |Data Scientist||
+|키OOO|2020.11 ~ 2022.03|Data Scientist||
+|코드OOOO|2022.04 ~ 2023.08|Data Scientist||
 
 <br>
 
