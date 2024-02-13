@@ -22,7 +22,7 @@
 
 |**회사명**|**기간**|**업무**|**비고**|
 |---|---|---|---|
-|AhnOOO|2023.11 ~ |AI Prompt Engineer||
+|AhnOOO|2023.11 ~ |AI Engineer||
 |코드OOOO|2022.04 ~ 2023.08|Data Scientist||
 |키OOO|2020.11 ~ 2022.03|Data Scientist||
 
