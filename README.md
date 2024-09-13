@@ -11,6 +11,7 @@
 
 - Data Scientist 4년차 김현민 입니다.
 - 보안/물류, 에듀테크 스타트업에서 Data Analysis, Machine Learning, Deep Learning 업무를 맡아 진행했습니다.
+- 현재는 클라우드 MSP 회사에서 AI 기반 SaaS 솔루션을 개발하고 있습니다.
 - 비즈니스 문제를 데이터 기반으로 해결하는데 능숙합니다.
 - 원할한 협업을 위한 커뮤니케이션 역량을 보유하고 있습니다.
 - SQL / Python을 활용한 데이터 분석이 가능합니다.
@@ -22,7 +23,8 @@
 
 |**회사명**|**기간**|**업무**|**비고**|
 |---|---|---|---|
-|AhnOOO|2023.11 ~ |AI Engineer||
+|AhnOOOOOOOOOOOO|2024.07 ~  |AI Engineer||
+|AhnOOO|2023.11 ~ 2024.07 |AI Engineer||
 |코드OOOO|2022.04 ~ 2023.08|Data Scientist||
 |키OOO|2020.11 ~ 2022.03|Data Scientist||
 
