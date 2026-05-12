@@ -2,6 +2,8 @@
 
 **AI Engineer** | AI 서비스 개발 · LLM · 데이터 분석
 
+
+
 <br>
 
 ## About Me
@@ -10,6 +12,12 @@
 - LLM 기반 서비스 설계부터 배포까지, End-to-End AI 개발 경험을 보유하고 있습니다.
 - 보안/물류, 에듀테크 스타트업에서 Data Analysis, Machine Learning, Deep Learning 업무 경험을 쌓았습니다.
 - 비즈니스 문제를 데이터 기반으로 해결하는 것을 좋아합니다.
+
+<br>
+
+## HomePage
+
+[![DataInclude](https://img.shields.io/badge/-DataInclude-0A0A0A?style=flat&logo=googlechrome&logoColor=white&link=https://datainclude.me)](https://datainclude.me)
 
 <br>
 
@@ -52,11 +60,5 @@
 
 [![Blog](https://img.shields.io/badge/-Blog-655ced?style=flat&logo=github&link=https://datainclude.me)](https://datainclude.me)
 [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:sanarial312@gmail.com)](mailto:sanarial312@gmail.com)
-
-<br>
-
-## HomePage
-
-[![DataInclude](https://img.shields.io/badge/-DataInclude-0A0A0A?style=flat&logo=googlechrome&logoColor=white&link=https://datainclude.me)](https://datainclude.me)
 
 </div>
