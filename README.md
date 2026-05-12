@@ -55,11 +55,8 @@
 
 <br>
 
-## GitHub Stats
+## HomePage
 
-<div align=center>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hmkim312)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hmkim312&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![DataInclude](https://img.shields.io/badge/-DataInclude-0A0A0A?style=flat&logo=googlechrome&logoColor=white&link=https://datainclude.me)](https://datainclude.me)
 
 </div>
